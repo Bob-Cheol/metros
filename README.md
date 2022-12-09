@@ -1,4 +1,4 @@
-## Metros Data Team Project Repository
+## Project Repository for Metros Data Team
 
 ### Project 1. Build database with tables
 
