@@ -7,7 +7,7 @@ from helper.database_helper import upload_game_info_to_database, upload_player_i
 if __name__ == '__main__':
   team_id = '17818'
   start_year = 2016
-  end_year = 2022
+  end_year = 2023
 
   # upload game_info
   if True:
